@@ -1,0 +1,101 @@
+Doctor_ID,Doctor_Name,Department,Experience_Years,Consultation_Fee
+1,Dr. Doctor_1,ENT,12,1931
+2,Dr. Doctor_2,Pediatrics,2,1795
+3,Dr. Doctor_3,General Medicine,1,1436
+4,Dr. Doctor_4,Oncology,16,2153
+5,Dr. Doctor_5,ENT,23,1820
+6,Dr. Doctor_6,Emergency,23,863
+7,Dr. Doctor_7,Orthopedics,30,1591
+8,Dr. Doctor_8,ENT,24,1936
+9,Dr. Doctor_9,General Medicine,5,998
+10,Dr. Doctor_10,Oncology,3,2460
+11,Dr. Doctor_11,Pediatrics,12,301
+12,Dr. Doctor_12,General Medicine,8,941
+13,Dr. Doctor_13,General Medicine,22,1889
+14,Dr. Doctor_14,Orthopedics,27,1154
+15,Dr. Doctor_15,Dermatology,3,2059
+16,Dr. Doctor_16,Oncology,1,1961
+17,Dr. Doctor_17,Neurology,3,1453
+18,Dr. Doctor_18,General Medicine,5,1376
+19,Dr. Doctor_19,Dermatology,15,2007
+20,Dr. Doctor_20,Neurology,14,1995
+21,Dr. Doctor_21,Oncology,3,2033
+22,Dr. Doctor_22,Cardiology,1,1739
+23,Dr. Doctor_23,Emergency,5,1135
+24,Dr. Doctor_24,Dermatology,26,502
+25,Dr. Doctor_25,ICU,23,422
+26,Dr. Doctor_26,Cardiology,14,700
+27,Dr. Doctor_27,Emergency,7,1066
+28,Dr. Doctor_28,Orthopedics,27,593
+29,Dr. Doctor_29,ENT,9,497
+30,Dr. Doctor_30,Pediatrics,15,2230
+31,Dr. Doctor_31,ICU,15,2491
+32,Dr. Doctor_32,Orthopedics,26,908
+33,Dr. Doctor_33,Oncology,10,1447
+34,Dr. Doctor_34,Orthopedics,28,486
+35,Dr. Doctor_35,ENT,13,2094
+36,Dr. Doctor_36,Oncology,19,959
+37,Dr. Doctor_37,ICU,7,2255
+38,Dr. Doctor_38,ENT,17,1669
+39,Dr. Doctor_39,Neurology,20,2286
+40,Dr. Doctor_40,Pediatrics,29,1834
+41,Dr. Doctor_41,ICU,4,446
+42,Dr. Doctor_42,Neurology,30,2034
+43,Dr. Doctor_43,Emergency,5,2143
+44,Dr. Doctor_44,ICU,23,788
+45,Dr. Doctor_45,Emergency,7,2259
+46,Dr. Doctor_46,Oncology,13,1963
+47,Dr. Doctor_47,Neurology,15,940
+48,Dr. Doctor_48,Pediatrics,11,2102
+49,Dr. Doctor_49,ENT,29,2269
+50,Dr. Doctor_50,General Medicine,4,2498
+51,Dr. Doctor_51,Orthopedics,13,1738
+52,Dr. Doctor_52,Cardiology,7,1934
+53,Dr. Doctor_53,Pediatrics,27,562
+54,Dr. Doctor_54,Neurology,19,2087
+55,Dr. Doctor_55,General Medicine,22,2491
+56,Dr. Doctor_56,Pediatrics,28,923
+57,Dr. Doctor_57,Neurology,2,1316
+58,Dr. Doctor_58,Dermatology,10,1180
+59,Dr. Doctor_59,Dermatology,13,2349
+60,Dr. Doctor_60,Emergency,30,1627
+61,Dr. Doctor_61,Pediatrics,25,752
+62,Dr. Doctor_62,Dermatology,21,1483
+63,Dr. Doctor_63,Neurology,6,2356
+64,Dr. Doctor_64,Emergency,28,1982
+65,Dr. Doctor_65,Neurology,28,1454
+66,Dr. Doctor_66,Emergency,12,703
+67,Dr. Doctor_67,Pediatrics,12,2499
+68,Dr. Doctor_68,General Medicine,20,2401
+69,Dr. Doctor_69,ENT,30,1996
+70,Dr. Doctor_70,ICU,30,927
+71,Dr. Doctor_71,General Medicine,11,886
+72,Dr. Doctor_72,Oncology,26,1948
+73,Dr. Doctor_73,Neurology,23,1743
+74,Dr. Doctor_74,Oncology,28,1745
+75,Dr. Doctor_75,General Medicine,25,403
+76,Dr. Doctor_76,Emergency,7,553
+77,Dr. Doctor_77,ICU,30,1796
+78,Dr. Doctor_78,ICU,1,398
+79,Dr. Doctor_79,Cardiology,1,2500
+80,Dr. Doctor_80,ICU,25,2184
+81,Dr. Doctor_81,ENT,27,2219
+82,Dr. Doctor_82,ICU,30,1177
+83,Dr. Doctor_83,General Medicine,25,637
+84,Dr. Doctor_84,Cardiology,20,1256
+85,Dr. Doctor_85,General Medicine,13,2004
+86,Dr. Doctor_86,General Medicine,9,460
+87,Dr. Doctor_87,Orthopedics,3,1903
+88,Dr. Doctor_88,Cardiology,7,697
+89,Dr. Doctor_89,General Medicine,6,1600
+90,Dr. Doctor_90,Orthopedics,8,1115
+91,Dr. Doctor_91,Orthopedics,27,1827
+92,Dr. Doctor_92,Cardiology,9,2219
+93,Dr. Doctor_93,Oncology,30,1715
+94,Dr. Doctor_94,Emergency,5,1458
+95,Dr. Doctor_95,ENT,1,1518
+96,Dr. Doctor_96,Emergency,19,700
+97,Dr. Doctor_97,ICU,10,939
+98,Dr. Doctor_98,ENT,12,759
+99,Dr. Doctor_99,ICU,24,1254
+100,Dr. Doctor_100,General Medicine,15,769
